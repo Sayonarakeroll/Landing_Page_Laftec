@@ -53,9 +53,4 @@ Siga os passos abaixo para configurar e rodar o projeto em seu ambiente de desen
     Abra seu navegador e acesse [http://localhost:3000](http://localhost:3000) para ver a aplicação em execução.
 
 
-## 📞 Contato
 
--   **E-mail:** [laftec.uninassau@gmail.com](mailto:laftec.uninassau@gmail.com)
--   **Instagram:** [@laftecuninassau](https://instagram.com/laftecuninassau)
-
----
